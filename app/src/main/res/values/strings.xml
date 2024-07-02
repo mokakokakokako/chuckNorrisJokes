@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chuck Norris Jokes Test App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_refresh_text">Refresh joke</string>
+    <string name="chuck_joke">Chuck joke:</string>
+    <string name="chuck_joke_example_text">Chuck Norris never bows to royalty, or anyone, for that matter. If they wish to continue to live, they must bow to Chuck Norris. Chuck Norris never bows to royalty, or anyone, for that matter. If they wish to continue to live, they must bow to Chuck Norris.</string>
+</resources>
